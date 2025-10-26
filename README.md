@@ -79,4 +79,4 @@ py -m pip install opencv-python numpy Pillow --no-cache-dir
 - **PIL**: Xử lý hình ảnh
 
 ---
-Phát triển bởi: [Tên bạn]
+Phát triển bởi: [Syntax Ngo]
